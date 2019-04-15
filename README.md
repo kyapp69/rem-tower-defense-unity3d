@@ -1,6 +1,6 @@
 # R.E.M - 3D Tower Defense made with Unity
 
->A 3D game in Unity that compiles and run on the Microsoft Surface Pro 3/4 with Windows. It utilises the gyroscope and accelerometer functionality of the Surface Pro 3/4
+>A 3D game in Unity that compiles and run on the Microsoft Surface Pro 3/4 with Windows. It utilises the gyroscope and accelerometer functionality of the Surface Pro 3/4.
 
 ## External Assets
 
